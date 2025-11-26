@@ -1,0 +1,6 @@
+node_modules/
+protected/js/app.obf.js
+.DS_Store
+npm-debug.log
+logs/
+*.log
